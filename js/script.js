@@ -1,3 +1,7 @@
+var sayMyName = function (name){
+	alert('My name is: ' + name);
+}
+
 var car = {
 			mark: 'VW',
 			type: 'Polo',
